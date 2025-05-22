@@ -1,0 +1,3 @@
+0 Cam
+1 Kağıt
+2 Plastik
